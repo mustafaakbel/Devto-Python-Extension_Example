@@ -1,1 +1,2 @@
-echo "Merhaba Dünya !!"
+#!/usr/bin/python3
+print("Merhaba Dünya !!")
